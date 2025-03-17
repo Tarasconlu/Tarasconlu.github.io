@@ -8,15 +8,13 @@ hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+# Louis Leborgne
+Elève ingénieur en cours préparatoire
 
 
-Disponible XX mois à partir de Date
+Disponible 2 mois à partir de 01/07 25/08
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
-
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
+louis.leborgne2006@outlook.fr
 
 Permis B, voiture
 
