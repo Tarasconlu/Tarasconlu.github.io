@@ -14,7 +14,7 @@ Elève ingénieur en cours préparatoire
 
 Disponible 2 mois à partir de 01/07 25/08
 
-louis.leborgne2006@outlook.fr
+[louis.leborgne2006[at]outlook.fr](mailto:louis.leborgne2006@outlook.fr)
 
 Permis B, voiture
 
